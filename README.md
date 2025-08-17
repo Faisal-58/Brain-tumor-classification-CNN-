@@ -17,7 +17,7 @@ Evaluated performance using training and testing accuracy.
 
 Language: Python 🐍
 
-Libraries: PyTorch, NumPy, Pandas, Matplotlib, scikit-learn
+Libraries: Tensorflow, NumPy, Pandas, Matplotlib, scikit-learn
 
 Tools: Git, VS Code
 
@@ -60,5 +60,6 @@ Experiment with transfer learning (ResNet, EfficientNet) for higher accuracy.
 
 💻 [GitHub](https://github.com/Faisal-58)  
 🔗 [LinkedIn](https://www.linkedin.com/in/faisal-ijaz-44524179/)  
+
 
 
