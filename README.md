@@ -29,6 +29,7 @@ CNN successfully differentiates between all the classes mentioned.
 
 Visualization of training vs validation accuracy:
 
+![Accuracy and Loss](result_brain.png)
 
 
 **▶️ How to Run**
@@ -59,4 +60,5 @@ Experiment with transfer learning (ResNet, EfficientNet) for higher accuracy.
 
 💻 [GitHub](https://github.com/Faisal-58)  
 🔗 [LinkedIn](https://www.linkedin.com/in/faisal-ijaz-44524179/)  
+
 
