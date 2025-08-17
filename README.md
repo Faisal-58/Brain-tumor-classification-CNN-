@@ -35,8 +35,7 @@ Visualization of training vs validation accuracy:
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/brain-tumor-classification.git
-cd brain-tumor-classification
+https://github.com/Faisal-58/Brain-tumor-classification-CNN-.git
 
 
 Install dependencies:
@@ -48,16 +47,16 @@ Run training:
 
 python main.py
 
-🔮 Future Work
+**🔮 Future Work**
 
 Deploy as a web app using Streamlit.
 
 Experiment with transfer learning (ResNet, EfficientNet) for higher accuracy.
 
-✨ Author
+**✨ Author**
 
 👤 Faisal Ijaz
 
-💻 GitHub
+💻 [GitHub](https://github.com/Faisal-58)  
+🔗 [LinkedIn](https://www.linkedin.com/in/faisal-ijaz-44524179/)  
 
-🔗 LinkedIn
